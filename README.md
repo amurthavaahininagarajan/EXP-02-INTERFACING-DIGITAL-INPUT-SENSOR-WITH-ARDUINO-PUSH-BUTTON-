@@ -94,7 +94,20 @@ void loop()
 
 
 
-Output of the simulation :
+### Output of the simulation :
 
-[My image](username.github.com/repository/img/image.jpg)
+### BEFORE STIMULATION
+![Screenshot (61)](https://github.com/amurthavaahininagarajan/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118679102/6216ac67-4085-444a-b1eb-5204ecd9a46a)
+
+
+### AFTER STIMULATION
+![Screenshot (62)](https://github.com/amurthavaahininagarajan/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118679102/b4d145bf-fc71-410b-bd09-4afb654320e9)
+
+### RESULT:
+
+Thus the given interfacing a digital input and blink LED is sucessfully done through tinker CAD
+
+
+
+
 
