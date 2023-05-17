@@ -67,9 +67,28 @@ FIGURE -03
 
 
 PROGRAM 
- 
- 
- 
+ ```
+ int buttonstate = 0;
+
+void setup()
+{
+  pinMode(2, INPUT);
+  pinMode(12, OUTPUT);
+}
+
+void loop()
+{
+ buttonstate = digitalRead(2); //
+  if(buttonstate == HIGH)
+  {
+    digitalWrite(13, HIGH);
+  }else
+  {
+    digitalWrite(13, LOW);
+  }
+  delay(15);//
+}
+ ```
  
  
 
